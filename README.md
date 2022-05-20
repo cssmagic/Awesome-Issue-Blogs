@@ -39,3 +39,7 @@
 
 	[源码](https://github.com/IssueReader) | [说明文章](https://github.com/IssueReader/IssueReader.github.io/issues/1)
 
+
+## 指南
+
+* [如何正确接收 GitHub 的消息邮件](https://github.com/cssmagic/blog/issues/49)
