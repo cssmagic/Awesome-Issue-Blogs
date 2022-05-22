@@ -38,6 +38,12 @@
 	> GitHub Issue 博客阅读工具
 
 	[源码](https://github.com/IssueReader) | [说明文章](https://github.com/IssueReader/IssueReader.github.io/issues/1)
+	
+* ### NextBlog
+
+	> Next.js + Github Issue + Github Action 构建博客解决方案
+
+	[源码](https://github.com/giscafer/blog) | [说明文章](https://zhuanlan.zhihu.com/p/492269792)
 
 
 ## 指南
