@@ -21,6 +21,12 @@
 	
 	[源码](https://github.com/ttop5/issue-blog) | [功能介绍](https://ttop5.net/issue-blog/#/posts/35)
 
+* ### iBlog
+
+	> 基于 Gracejs 及 GitHub Issues 的全功能博客方案
+
+	[源码](https://github.com/xiongwilee/iblog) | [功能介绍](https://zhuanlan.zhihu.com/p/26198959)
+
 * ### gh-feed
 
 	> Generate RSS feed from GitHub Issues.
@@ -33,17 +39,11 @@
 
 	[源码](https://github.com/imsun/gitment) | [功能介绍](https://imsun.net/posts/gitment-introduction/)
 
-* ### iBlog
-
-	> 基于 Gracejs 及 GitHub Issues 的全功能博客方案
-	
-	[源码](https://github.com/xiongwilee/iblog) | [说明文章](https://zhuanlan.zhihu.com/p/26198959)
-
 * ### IssueReader
 
 	> GitHub Issue 博客阅读工具
 
-	[源码](https://github.com/IssueReader) | [说明文章](https://github.com/IssueReader/IssueReader.github.io/issues/1)
+	[源码](https://github.com/IssueReader) | [功能介绍](https://github.com/IssueReader/IssueReader.github.io/issues/1)
 
 
 ## 指南
