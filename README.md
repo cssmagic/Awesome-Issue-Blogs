@@ -23,9 +23,15 @@
 
 * ### gh-feed
 
-	> Generate RSS feed from GitHub Issues
+	> Generate RSS feed from GitHub Issues.
 	
 	[源码](https://github.com/imsun/gh-feed) | [功能介绍](https://imsun.net/posts/gh-feed/)
+
+* ### Gitment
+
+	> A comment system based on GitHub Issues.
+
+	[源码](https://github.com/imsun/gitment) | [功能介绍](https://imsun.net/posts/gitment-introduction/)
 
 * ### iBlog
 
