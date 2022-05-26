@@ -44,6 +44,13 @@
 	> GitHub Issue 博客阅读工具。
 
 	[功能介绍](https://github.com/IssueReader/IssueReader.github.io/issues/1) | [源码](https://github.com/IssueReader)
+	
+* ### NextBlog
+
+	> Next.js + Github Issue + Github Action 构建博客解决方案
+
+	[功能介绍](https://zhuanlan.zhihu.com/p/492269792) | [源码](https://github.com/giscafer/blog) 
+
 
 
 ## 指南
