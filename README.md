@@ -9,6 +9,12 @@
 
 ## 工具
 
+* ### Kup
+
+	> 这款命令行工具可以把本地 Markdown 文件同步到 GitHub issue。
+
+	[功能介绍](https://github.com/cssmagic/kup#readme) | [源码](https://github.com/cssmagic/kup)
+
 * ### Mirror
 
 	> A blogging tool powered by GitHub API. Write your blog on GitHub issue.
@@ -18,7 +24,7 @@
 * ### issue-blog
 
 	> 基于 GitHub API 的博客工具，尽情享受 GitHub Issue 带来的便利吧。
-	
+
 	[功能介绍](https://ttop5.net/issue-blog/#/posts/35) | [源码](https://github.com/ttop5/issue-blog)
 
 * ### iBlog
@@ -27,10 +33,16 @@
 
 	[功能介绍](https://zhuanlan.zhihu.com/p/26198959) | [源码](https://github.com/xiongwilee/iblog)
 
+* ### NextBlog
+
+	> Next.js + GitHub Issue + GitHub Action 构建博客解决方案。
+
+	[功能介绍](https://zhuanlan.zhihu.com/p/492269792) | [源码](https://github.com/giscafer/blog) 
+
 * ### gh-feed
 
 	> Generate RSS feed from GitHub Issues.
-	
+
 	[功能介绍](https://imsun.net/posts/gh-feed/) | [源码](https://github.com/imsun/gh-feed)
 
 * ### Gitment
@@ -44,13 +56,6 @@
 	> GitHub Issue 博客阅读工具。
 
 	[功能介绍](https://github.com/IssueReader/IssueReader.github.io/issues/1) | [源码](https://github.com/IssueReader)
-	
-* ### NextBlog
-
-	> Next.js + Github Issue + Github Action 构建博客解决方案
-
-	[功能介绍](https://zhuanlan.zhihu.com/p/492269792) | [源码](https://github.com/giscafer/blog) 
-
 
 
 ## 指南
