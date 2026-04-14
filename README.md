@@ -11,7 +11,9 @@
 
 * ### Kup
 
-	> 这款命令行工具可以把本地 Markdown 文件同步到 GitHub issue。
+	> A CLI tool to sync local Markdown files and GitHub issues bidirectionally.
+ 	>
+ 	> 一款命令行工具，实现本地 Markdown 文件与 GitHub Issues 的双向同步。
 
 	[功能介绍](https://github.com/cssmagic/kup#readme) | [源码](https://github.com/cssmagic/kup)
 
